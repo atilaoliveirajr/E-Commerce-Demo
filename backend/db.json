@@ -1,0 +1,39 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Shirt",
+            "category_id": 5,
+            "descriptions": "description here",
+            "price": "300",
+            "is_available": true,
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "abc shop",
+            "warranty": 1
+        },
+        {
+            "id": 2,
+            "name": "Shirt",
+            "category_id": 5,
+            "descriptions": "description here",
+            "price": "400",
+            "is_available": true,
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "abc shop",
+            "warranty": 1
+        },
+        {
+            "id": 3,
+            "name": "Shirt",
+            "category_id": 5,
+            "descriptions": "description here",
+            "price": "500",
+            "is_available": true,
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "abc shop",
+            "warranty": 1
+        }
+    ]
+}
